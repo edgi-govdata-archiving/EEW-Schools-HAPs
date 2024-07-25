@@ -1,11 +1,5 @@
   [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
 
-# Environmental Enforcement Watch
-This repo is for project management of the Environmental Enforcement Watch (EEW) series of events hosted by EDGI. Looking for something to do? Look for the [needs more assignees](https://github.com/edgi-govdata-archiving/EEW_Planning/labels/needs%20more%20assignees) label!
-
-## Planning Document
-For planning meeting notes and information, please visit the [Planning Doc](https://docs.google.com/document/d/1ZraEefQMhF1XWDrZi8Igr9gQUWD2n2LM5n26CLmxbB8/edit#heading=h.s8auecfa33q0).
-
 ## EEW Tracker
 Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Notebook and Primers on this [tracking spreadsheet](https://docs.google.com/spreadsheets/d/1Z2rBoGqb_SXW6oAu12A6TCWEJGV1pk0YxL13P_Z5Wlw/edit#gid=1601968109).
 
@@ -28,18 +22,6 @@ Find an overview of the EEW investigation outcomes, spreadsheets of Jupyter Note
 | Sara Wylie | @saraannwylie | EEW event co-coordinator, budget and hiring coordinator, fundraising and partnership outreach co-coordinator | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/saraannwylie |
 | Steve Hansen | @shansen5 | Programming and database support; Jupyter Notebook development; Mentoring on programming and development; Event notebook demonstrations| https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/shansen5 |
 | Sung-Gheel Jang | @sunggheel | ECHO database hosted at Stonybrook University | https://github.com/edgi-govdata-archiving/EEW_Planning/issues/assigned/sunggheel |
-
-
-## EEW-relevant Slack channels on EDGI's Slack
-| Channel | Description |
-|-|-|
-| #data_wg | EDGI's general channel for data and archiving topics, including EEW notebook development and decentralized web work |
-| #echo_projects |  The general channel for all projects related to ECHO, including EEW, ECHO classes, ECHO UX research, and others. |
-| #eew_coordination | The general channel for everything related to EEW and EEW planning. This will be the main channel that you will be communicating in |
-| #eew_daily_scrum | A bot posts every day to ask check-in questions so the EEW team can share what they are working on |
-| #eew_issues | A bot posts updates to Github issues in the EEW_Planning and Environmental_Enforcement_Watch repos |
-| #envirodatajustice | This is the channel about the broader theory behind environmental data justice and resources about environmental justice and data justice activism |
-| #stupid_questions | For asking questions, especially questions you feel like maybe you should know the answer to already |
 
 ## How to use this repo
 We are using a Github Project attached to this repo to manage tasks associated with organizing the EEW events. You can find the Project board [here](https://github.com/edgi-govdata-archiving/EEW_Planning/projects/1) (or look for the Projects tab at the top of this repo.)
